@@ -1,0 +1,56 @@
+.p1,
+.p2,
+.p3,
+.p4,
+.p5,
+.p6,
+.p7,
+.p8 {
+    border: 2px solid silver;
+    border-radius: 8px;
+    margin: 7px 7px 7px 7px;
+    padding: 4px;
+    height: fit-content;
+    width:160px;
+}
+
+.price {
+    color: green;
+}
+
+.price1 {
+    color: red;
+}
+
+.Products {
+    display: flex;
+
+    flex-wrap: wrap; 
+    margin: 40px;
+   
+}
+
+
+.m{
+ width: 100%;
+ border-radius: 8px;
+}
+
+
+.but1 {
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    width:80%;
+    text-align: center;
+
+}
+
+.but2 {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+
+    text-align: center;
+   
+}
